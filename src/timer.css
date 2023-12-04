@@ -1,0 +1,19 @@
+.timer {
+  /* background-image: url('https://dam.northwell.edu/m/4421e757674bcf77/Drupal-TheWell_baby-communicates-through-laughter_AS_88276063.jpg'); */
+    text-align: center;
+    font-size: 24px;
+    margin-bottom: 10px;
+    font-family: Arial, sans-serif;
+    margin-left: 52%;
+    margin-top: 25%;
+    display: inline-block;
+    background-color: #f3f3f3;
+    padding: 25px;
+    border-radius: 25px;
+  }
+ .timer1
+ {
+  height: 100vh;
+  background-repeat: no-repeat;
+  background-image: url('https://wallpapers.com/images/hd/aesthetic-girl-pictures-xl7ethtg7gozi3mx.jpg')
+ }

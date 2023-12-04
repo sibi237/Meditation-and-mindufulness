@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.backimg{
+  background-image: "C:\Users\BOSS\Desktop\Demo app\task1\src\Pictures\mediimg.webp ";
+}
+/* .lay{
+     background: url('https://images.squarespace-cdn.com/content/v1/5d31ed671abe780001b2964d/1623282132996-D5O5P5AVHTU7FQOPTQGL/Jackie+Stewart+meditating+outside') no-repeat center center/cover;
+    position: absolute;
+    width: 100%;
+    height: 75%;
+      top: 0;
+      left: 0;
+      opacity: 40%;
+      font-style: oblique;
+      color:black;
+}  */
